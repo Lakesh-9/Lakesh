@@ -1,7 +1,19 @@
 title: Lakesh Kumar Suryadevara
 url:  "www.linkedin.com/in/lakeshkumarsuryadevara" 
 author:
-  email: "suryadevara.lakeshkumar@gmail.com"  # Replace with your email
-  linkedin: "www.linkedin.com/in/lakeshkumarsuryadevara"  # Replace with your LinkedIn URL
-#phone: "+1234567890"  # Replace with your phone number
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Susan Paudel"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "susan.paudel@example.com"  # Your email here
+
+  # LinkedIn Profile
+  linkedin         : "https://www.linkedin.com/in/susan-paudel"  # Replace with your LinkedIn URL
+  phone            : "+1234567890"  # Replace with your phone number
+
+
 theme: jekyll-theme-minimal
